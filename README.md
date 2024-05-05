@@ -1338,6 +1338,8 @@ localhost: ~# ./palindrome.sh
 Enter the number
 21
 Number is NOT palindrome
+
+
 localhost:~# chmod 755 palindrome.sh
 localhost:~# ./palindrome.sh
 Enter the number
