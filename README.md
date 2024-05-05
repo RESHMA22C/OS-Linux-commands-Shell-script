@@ -1333,8 +1333,8 @@ else
 fi
 ```
 ## OUTPUT 
-localhost:~# chmod 755 palindrome.sh
-localhost:~# ./palindrome.sh
+localhost: ~# chmod 755 palindrome.sh
+localhost: ~# ./palindrome.sh
 Enter the number
 21
 Number is NOT palindrome
